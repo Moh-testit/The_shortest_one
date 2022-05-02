@@ -1,6 +1,3 @@
-##
-## EPITECH PROJECT, 2021
-## Makefile
 ## File description:
 ## 301dannon Makefile
 ##
