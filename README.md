@@ -1,4 +1,3 @@
-# 302separation - Epitech project
 
 - **Choosed language:** python
 - **Compilation:** via Makefile, including re, clean and fclean rules
@@ -39,5 +38,3 @@ $ make
         pi name of someone in the file
 
 ```
-
-> :star: Goulag!
